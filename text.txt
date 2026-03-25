@@ -1,0 +1,4 @@
+staged means file add successfully just commit process is required for final.
+git status use to cheak files status
+git add use to add files
+git add . use to add all files together
